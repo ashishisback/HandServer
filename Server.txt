@@ -1,0 +1,28 @@
+@@ +0,0 ,, -2,28
+import java.util.Scanner;
+import java.util.String;
+import java.util.Regex;
+import java.util.Maths;
+public class Server
+{
+public static void main(String[] args) throws IOException
+{
+Server s = new Server();
+Server.add = add();
+Server.delete = delete();
+Server.isEmpty = isEmpty();
+}
+if(Server == s)
+{
+System.out.println("Server is used for texting");
+}
+else(s == Server)
+{
+System.out.println("Server is not used for texting");
+}
+Regex r = new Regex();
+Regex.add = "+02345@#!";
+Regex.remove = "-345!@@#";
+for(int r = 0; r < regex.length; r++)
+System.out.println("Regexlength is length:");
+}
